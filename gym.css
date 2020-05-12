@@ -1,0 +1,56 @@
+header{
+	font:Normal bolder 50px/0px sherif;
+	position:absolute;
+	  top:50px;
+	  left:175px;
+	text-decoration:underline;
+  
+}
+header{
+	text-shadow:5px 5px 5px black;
+	color:red;
+	
+}
+.pro{
+	font:normal bold 20px/0px Sherif;
+	color:red;
+	
+}
+.tri{
+	font-size:20px;
+    font-weight:bold;
+}
+footer{
+	font:normal bold 15px/0px sherif;
+}
+body{
+   line-height:30px;
+}
+.phot{
+    width:400px;
+	height:500px;
+}
+h1{
+	color:grey;
+}
+p{
+	font-size:20px;
+}
+.ten{
+	font-size:20px;
+}
+.tra{
+	font:italic bolder 20px/0px sherif;
+  color:red;
+}
+.logo{
+	background:url("logo.jpg");
+	background-repeat:no-repat;
+	border:1px solid white
+	
+}
+
+
+
+
+
